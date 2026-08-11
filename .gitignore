@@ -1,0 +1,28 @@
+# Environment variables
+.env
+# Secrets
+secrets/
+# Build outputs
+build/
+bin/
+out/
+# IDE
+.idea/
+.vscode/
+*.iml
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+# Android
+local.properties
+.gradle/
+# Database
+*.sqlite3
+*.db
+# Logs
+logs/
+*.log
+# Generated
+generated/
